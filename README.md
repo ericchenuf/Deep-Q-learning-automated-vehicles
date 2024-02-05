@@ -20,18 +20,11 @@ To evaluate the agent's performance in various simulated driving environments to
 
 ## Installation
 ```{python}
-bash
 # Clone this repository
 git clone [repository-url]
 ```
 # Install dependencies
 ```{python}
-pip install -r requirements.txt
+pip install -r ./main/requirements.txt
 ```
-# Model Training 
-```{python}
-# Run training session
-python train.py --env [environment-name]
-```
-# Evaluate the trained model
-python evaluate.py --model [model-path]
+
