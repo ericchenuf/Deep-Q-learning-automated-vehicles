@@ -17,6 +17,7 @@ To evaluate the agent's performance in various simulated driving environments to
 > Highway: Navigating in traffic on a multi-lane road.
 > Merge: Merging into traffic from an on-ramp.  
 > Intersection: Navigating complex intersections with varying traffic patterns.
+>![alt text](https://github.com/ericchenuf/Deep-Q-learning-automated-vehicles/blob/main/environment.png)
 
 ## Installation
 ```{python}
